@@ -7,7 +7,7 @@ This is a simple weather application that retrieves and displays weather informa
 * Handles errors and displays an appropriate message if the weather data cannot be retrieved.
 
 ## Live Demo
-You can try the live demo [here]().
+You can try the live demo [here](https://vercel.com/deekshithamunigalas-projects/weather-app).
 
 ## Getting Started
 ### Prerequisites
