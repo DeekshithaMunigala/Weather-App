@@ -23,7 +23,7 @@ git clone https://github.com/DeekshithaMunigala/weather-app.git
 
 2.Open the project directory and locate the app.js file.
 
-3. Replace the placeholder text "Add your key here" with your OpenWeatherMap API key:
+3. Replace the api key with your OpenWeatherMap API key:
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
 ```
